@@ -1,0 +1,15 @@
+{
+  "name": "flipdev/foundation",
+  "description": "Mage2 TEST-Theme",
+  "type": "magento2-theme",
+  "version": "1.0.0",
+  "require": {
+    "snowdog/theme-frontend-alpaca": "<latest-version>",
+    "flipdev/module-child-theme-frontools": "<latest-version>"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
