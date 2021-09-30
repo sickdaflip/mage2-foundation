@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "require": {
     "snowdog/theme-frontend-alpaca": "<latest-version>",
-    "flipdev/module-child-theme-frontools": "<latest-version>"
+    "flipdev/module-foundation-frontools": "<latest-version>"
   },
   "autoload": {
     "files": [
